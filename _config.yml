@@ -1,0 +1,28 @@
+name: FractalAcademy
+favicon: null
+layout_spectrum: 0.41737429006025195
+typography_spectrum: 0.7014676807448268
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9276931083295494
+  lightness: 0.8493394879624248
+  saturation: 0.15194318303838372
+  rhythmicContrast: 0.4859220574144274
+purpose: []
